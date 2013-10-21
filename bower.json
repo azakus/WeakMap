@@ -1,0 +1,23 @@
+{
+  "name": "WeakMap",
+  "main": "weakmap.js",
+  "version": "0.0.20131010",
+  "homepage": "https://github.com/Polymer/WeakMap",
+  "authors": [
+    "The Polymer Authors <polymer-dev@googlegroups.com>"
+  ],
+  "description": "Shim for ES6 WeakMap",
+  "keywords": [
+    "weakmap",
+    "polymer",
+    "es6"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
